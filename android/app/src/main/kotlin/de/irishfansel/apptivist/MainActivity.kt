@@ -1,4 +1,4 @@
-package com.example.apptivist
+package de.irishfansel.apptivist
 
 import io.flutter.embedding.android.FlutterActivity
 
